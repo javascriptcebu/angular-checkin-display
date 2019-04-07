@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/javascriptcebu/angular-checkin-display/master/src/assets/angular.png)
+
 # register-display
 
 ## Project setup
